@@ -1,0 +1,11 @@
+title: XAI
+description: HSLU I.BA_XAI Module
+theme: minima
+header_pages:
+  - index.md
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page-no-title
